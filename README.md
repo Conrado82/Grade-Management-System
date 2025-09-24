@@ -1,4 +1,4 @@
-# Grade-Management-System
+
 
 # Grade Management System
 
@@ -20,3 +20,4 @@ It was built to practice **arrays, functions, loops, and user input validation**
 ---
 
 ## Example Menu
+
