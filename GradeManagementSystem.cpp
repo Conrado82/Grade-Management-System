@@ -49,7 +49,7 @@ float calculateAverage(const float grades[], int students){
 float findMax(const float grades[], int students){
     float maxGrades = grades[0]; 
     float lowestGrade = grades[0];
-    std::cout<<maxGrades<<std::endl;
+    
 
 
     for (int i = 0; i < students; i++ ){ 
@@ -223,4 +223,5 @@ case 6:
 }
 
     return 0;
+
 }
