@@ -21,3 +21,27 @@ It was built to practice **arrays, functions, loops, and user input validation**
 
 ## Example Menu
 
+============================================
+ Grade Management System
+============================================
+1. Enter Grades
+2. Display all grades
+3. Calculate average grade
+4. Find highest and lowest grades
+5. Count grades in a specific range
+6. Search for a specefic grade
+7. Exit
+
+Enter your choice: 1
+
+how many grades to enter(Max is 100)?: 2
+
+Enter grade #1: 80
+
+Enter grade #2: 75
+
+Enter your choice: 4
+
+the max Grades is: 80
+
+the Lowest Grade is: 75
